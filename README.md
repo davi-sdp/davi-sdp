@@ -3,13 +3,9 @@
 - 🔭 I’m currently working on University Projects
 - 📫 How to reach me: [davis.dpont@hotmail.com](mailto:davis.dpont@hotmail.com)
 
-> Always learning, because intellectual growth should commence at birth and cease only at death, and the important thing is not to stop questioning.
+> **Always learning, because intellectual growth should commence at birth and cease only at death, and the important thing is not to stop questioning.**
 
 <!-- Always learning, because growth comes from challenges, and challenges are only overcome whith the seek and persistence.
-
-**davi-sdp/davi-sdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
