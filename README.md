@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on University Projects
 - 📫 How to reach me: [davis.dpont@hotmail.com](mailto:davis.dpont@hotmail.com)
 
-> **Always learning, because intellectual growth should commence at birth and cease only at death, and the important thing is not to stop questioning.**
+> **Always learning, because intellectual growth should commence at birth and cease only at death. The important thing is not to stop questioning.**
 
 <!-- Always learning, because growth comes from challenges, and challenges are only overcome whith the seek and persistence.
 
