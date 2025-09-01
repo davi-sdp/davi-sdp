@@ -1,16 +1,7 @@
 ## Hi there 👋, I am Davi
 
 - 🔭 I’m currently working on University Projects
-- 📫 How to reach me:
-<div align="center">
-  <a href="[YOUR LINKEDIN URL HERE]">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 
-  <a href="mailto:davis.dpont@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
 
 
 ### A little more about me...
@@ -66,3 +57,15 @@ Other: [YOUR OTHER SKILLS/INTERESTS HERE]
 🏆 Certifications & Achievements:
 
 [YOUR CERTIFICATIONS AND ACHIEVEMENTS HERE]
+
+
+- 📫 How to reach me:
+<div align="center">
+  <a href="[YOUR LINKEDIN URL HERE]">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:davis.dpont@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
