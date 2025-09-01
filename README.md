@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Davi
 
-- 🔭 I’m currently working on University Projects and on my primary account projects. Checkout it out at [github.com/d4v1-sudo](https://github.com/d4v1-sudo)
+- 🔭 I’m currently working on University Projects and on my primary account projects. Checkout the primary account at [github.com/d4v1-sudo](https://github.com/d4v1-sudo)
 
 - 📫 How to reach me:
 <div>
