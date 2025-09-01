@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on University Projects and on my primary account projects. Checkout it out at [github.com/d4v1-sudo](https://github.com/d4v1-sudo)
 
 - 📫 How to reach me:
-<div style="margin-left:100px">
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="[YOUR LINKEDIN URL HERE]">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
