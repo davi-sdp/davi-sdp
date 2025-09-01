@@ -2,7 +2,16 @@
 
 - 🔭 I’m currently working on University Projects
 
+- 📫 How to reach me:
+<div align="center">
+  <a href="[YOUR LINKEDIN URL HERE]">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
+  <a href="mailto:davis.dpont@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 ### A little more about me...
 
@@ -19,7 +28,7 @@
 <div align="center"> <a href="https://github.com/davi-sdp"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-sdp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-sdp&layout=compact&langs_count=16&theme=dracula"/> </a> </div>
 
 
-Skills & Tools:
+### Skills & Tools:
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
@@ -44,7 +53,7 @@ Skills & Tools:
   <img align="center" alt="AI" height="30" width="40" src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white"> </div>
 
 
-Areas of Study & Interest:
+### Areas of Study & Interest:
 
 Development: [YOUR DEVELOPMENT SKILLS HERE]
 
@@ -54,18 +63,6 @@ Emerging Technologies: [YOUR EMERGING TECH SKILLS HERE]
 
 Other: [YOUR OTHER SKILLS/INTERESTS HERE]
 
-🏆 Certifications & Achievements:
+### 🏆 Certifications & Achievements:
 
 [YOUR CERTIFICATIONS AND ACHIEVEMENTS HERE]
-
-
-- 📫 How to reach me:
-<div align="center">
-  <a href="[YOUR LINKEDIN URL HERE]">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:davis.dpont@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
