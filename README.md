@@ -16,13 +16,15 @@
 
 ### A little more about me...
 
-- 👨‍💻 I’m currently a Undergraduate Computer Engineer student at PUC Campinas.
+- 👨‍💻 I’m currently an Undergraduate Computer Engineering student at PUC Campinas.
 
 - 🚀 I’m proactive and highly engaged, always striving to create innovative solutions that deliver positive impact and improve processes.
 
-- 💻 My passions include Python, Web Development, Arduino projects, Automations, Data analysis e Machine Learning.
+- 💻 My passions include Python, Web Development, Arduino projects, Automations, Data Analysis, and Machine Learning.
 
-- 🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
+-🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
+
+- Hobbies? I love solving problems.
 
 > **Always learning, because intellectual growth should commence at birth and cease only at death. The important thing is not to stop questioning.**
 
