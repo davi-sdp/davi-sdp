@@ -2,8 +2,12 @@
 
 - 🔭 I’m currently working on University Projects
 - 📫 How to reach me:
-<div align="left"> <a href="[YOUR LINKEDIN URL HERE]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>
-<div align="left"> <a href="mailto:davis.dpont@hotmail.com" target="_blank">E-mail</a></div>
+<div align="center">
+  <a href="[YOUR LINKEDIN URL HERE]" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:davis.dpont@hotmail.com" target="_blank">E-mail</a>
+</div>
 
 ---
 
