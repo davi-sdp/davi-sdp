@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on University Projects
 
 - 📫 How to reach me:
-<div align="center">
+<div align="left">
   <a href="[YOUR LINKEDIN URL HERE]">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
