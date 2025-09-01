@@ -12,7 +12,6 @@
   </a>
 </div>
 
----
 
 ### A little more about me...
 
