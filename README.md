@@ -40,16 +40,16 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
+  <!-- <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
   <img align="center" alt="Power BI" height="30" width="40" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"> 
   <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"> 
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> 
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> -->
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-  <img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
+  <!-- <img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> -->
   <img align="center" alt="DevOps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"> 
   <img align="center" alt="Cybersecurity" height="30" width="40" src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white"> 
-  <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"> 
+  <!-- <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">  -->
   <img align="center" alt="AI" height="30" width="40" src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white"> </div>
 
 
