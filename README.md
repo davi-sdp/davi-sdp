@@ -52,7 +52,7 @@
   <!-- <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">  -->
   <img align="center" alt="AI" height="30" width="40" src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white"> </div>
 
-
+<!--
 ### Areas of Study & Interest:
 
 Development: [YOUR DEVELOPMENT SKILLS HERE]
@@ -66,3 +66,5 @@ Other: [YOUR OTHER SKILLS/INTERESTS HERE]
 ### 🏆 Certifications & Achievements:
 
 [YOUR CERTIFICATIONS AND ACHIEVEMENTS HERE]
+
+-->
