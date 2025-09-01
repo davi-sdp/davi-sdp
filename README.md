@@ -38,7 +38,7 @@ Primary Account Data:
 ---
 Secondary Account Data:
 ---
-<a href="https://github.com/d4v1-sudo">
+<a href="https://github.com/davi-sdp">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-sdp&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;title_color=ffffff&amp;border_color=000000&amp;bg_color=DEG,000000,000000" style="max-width: 100%;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-sdp&amp;layout=compact&amp;langs_count=7&amp;theme=dark&amp;title_color=ffffff&amp;border_color=000000&amp;bg_color=DEG,000000,000000" style="max-width: 100%;">
 </a>
