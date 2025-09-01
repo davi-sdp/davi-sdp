@@ -5,15 +5,17 @@
     - [davis.dpont@hotmail.com](mailto:davis.dpont@hotmail.com)
 <div align="left"> <a href="[YOUR LINKEDIN URL HERE]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>
 
-A little more about me...
+---
 
-👨‍💻 I’m currently a Undergraduate Computer Engineer student at PUC Campinas.
+### A little more about me...
 
-🚀 I’m proactive and highly engaged, always striving to create innovative solutions that deliver positive impact and improve processes.
+- 👨‍💻 I’m currently a Undergraduate Computer Engineer student at PUC Campinas.
 
-💻 My passions include Python, Web Development, Arduino projects, Automations, Data analysis e Machine Learning.
+- 🚀 I’m proactive and highly engaged, always striving to create innovative solutions that deliver positive impact and improve processes.
 
-🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
+- 💻 My passions include Python, Web Development, Arduino projects, Automations, Data analysis e Machine Learning.
+
+- 🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
 
 > **Always learning, because intellectual growth should commence at birth and cease only at death. The important thing is not to stop questioning.**
 
