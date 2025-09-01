@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on University Projects
 - 📫 How to reach me:
     - [davis.dpont@hotmail.com](mailto:davis.dpont@hotmail.com)
-<div align="center"> <a href="[YOUR LINKEDIN URL HERE]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="left"> <a href="[YOUR LINKEDIN URL HERE]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>
 
 A little more about me...
 
