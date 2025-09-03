@@ -22,7 +22,7 @@
 
 - 💻 My passions include Python, Web Development, Arduino projects, Automations, Data Analysis, and Machine Learning.
 
--🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
+- 🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
 
 - Hobbies? I love solving problems.
 
