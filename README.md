@@ -76,7 +76,7 @@ Secondary Account Data:
 <div>
   <h3>Operating Systems</h3>
   <img align="center" alt="Linux" height="30" width="40" src="./svg/tools/linux.svg"> 
-  <img align="center" alt="Debian" height="30" width="40" src="./svg/tools/Debian.svg"> 
+  <img align="center" alt="Debian" height="30" width="40" src="./svg/tools/debian.svg"> 
   <img align="center" alt="Ubuntu" height="30" width="40" src="./svg/tools/ubuntu.svg"> 
   <img align="center" alt="kali" height="30" width="40" src="./svg/tools/kalilinux.svg"> 
   <img align="center" alt="Windows" height="30" width="40" src="./svg/tools/windows11.svg"> 
