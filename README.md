@@ -2,18 +2,6 @@
 
 - 🔭 I’m currently working on University Projects and on my primary account projects. Checkout the primary account at [github.com/d4v1-sudo](https://github.com/d4v1-sudo)
 
-- 📫 How to reach me:
-<div>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/davi-swarovsky-dal-pont-754a3b381">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:davis.dpont@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
 ### A little more about me...
 
 - 👨‍💻 I’m currently an Undergraduate Computer Engineering student at PUC Campinas.
@@ -69,6 +57,18 @@ Secondary Account Data:
   <img align="center" alt="Cybersecurity" height="30" width="40" src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white"> 
   <!-- <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">  -->
   <img align="center" alt="AI" height="30" width="40" src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white"> </div>
+
+- 📫 How to reach me:
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/davi-swarovsky-dal-pont-754a3b381">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:davis.dpont@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 <!--
 ### Areas of Study & Interest:
