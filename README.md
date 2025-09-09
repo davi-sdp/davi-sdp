@@ -51,13 +51,13 @@ Secondary Account Data:
 <div>
   <h3>Frameworks & Libraries</h3>
   <img align="center" alt="React" height="30" width="40" src="./svg/frameworks/react.svg"> 
-  <img align="center" alt="Flask" height="30" width="40" src="./svg/frameworks/flask-wordmark.svg">
+  <img align="center" alt="Flask" height="30" width="40" style="background-color: rgba(128, 128, 128, 0.7); border-radius: 10%;" src="./svg/frameworks/flask-wordmark.svg">
   <img align="center" alt="Django" height="30" width="40" src="./svg/frameworks/django-plain.svg">
   <img align="center" alt="PyTorch" height="30" width="40" src="./svg/frameworks/pytorch.svg">
   <img align="center" alt="TensorFlow" height="30" width="40" src="./svg/frameworks/tensorflow.svg">
-  <img align="center" alt="OpenCV" height="30" width="40" src="./svg/frameworks/opencv-wordmark.svg">
+  <img align="center" alt="OpenCV" height="30" width="40" style="background-color: rgba(128, 128, 128, 0.7); border-radius: 10%;" src="./svg/frameworks/opencv-wordmark.svg">
   <img align="center" alt="NumPy" height="30" width="40" src="./svg/frameworks/numpy.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="./svg/frameworks/pandas-wordmark.svg">
+  <img align="center" alt="Pandas" height="30" width="40" style="background-color: rgba(255, 255, 255, 0.3); border-radius: 10%;" src="./svg/frameworks/pandas-wordmark.svg">
   <img align="center" alt="Jupyter" height="30" width="40" src="./svg/frameworks/jupyter-wordmark.svg">
 </div>
 
