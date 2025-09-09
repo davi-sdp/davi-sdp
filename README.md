@@ -105,8 +105,8 @@ Secondary Account Data:
 
 <hr>
 
+<div align="center"><strong>📫 How to reach me:</strong></div>
 <div align="center">
-    📫 How to reach me:
   <a href="https://linkedin.com/in/davi-swarovsky-dal-pont-754a3b381">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
