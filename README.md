@@ -34,29 +34,74 @@ Secondary Account Data:
 
 ### Skills & Tools:
 
-<div style="display: inline_block"><br> 
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
-  <!--
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  -->
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <!-- <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
-  <img align="center" alt="Power BI" height="30" width="40" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white"> 
-  <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"> 
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> -->
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-  <!-- <img align="center" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> -->
-  <img align="center" alt="DevOps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"> 
-  <img align="center" alt="Cybersecurity" height="30" width="40" src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white"> 
-  <!-- <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">  -->
-  <img align="center" alt="AI" height="30" width="40" src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white"> </div>
+<!-- Linguagens de Programação -->
+<div>
+  <h3>Languages</h3>
+  <img align="center" alt="Python" height="30" width="40" src="./svg/langs/python.svg"> 
+  <img align="center" alt="C" height="30" width="40" src="./svg/langs/c.svg"> 
+  <img align="center" alt="C++" height="30" width="40" src="./svg/langs/cplusplus.svg"> 
+  <img align="center" alt="JavaScript" height="30" width="40" src="./svg/langs/javascript.svg"> 
+  <img align="center" alt="HTML5" height="30" width="40" src="./svg/langs/html5.svg"> 
+  <img align="center" alt="CSS3" height="30" width="40" src="./svg/langs/css3.svg"> 
+  <img align="center" alt="JSON" height="30" width="40" src="./svg/langs/json.svg">
+  <span style="color:orange">Assembly</span>
+</div>
+
+<!-- Frameworks & Bibliotecas -->
+<div>
+  <h3>Frameworks & Libraries</h3>
+  <img align="center" alt="React" height="30" width="40" src="./svg/frameworks/react.svg"> 
+  <img align="center" alt="Flask" height="30" width="40" src="./svg/frameworks/flask-wordmark.svg">
+  <img align="center" alt="Django" height="30" width="40" src="./svg/frameworks/django-plain.svg">
+  <img align="center" alt="PyTorch" height="30" width="40" src="./svg/frameworks/pytorch.svg">
+  <img align="center" alt="TensorFlow" height="30" width="40" src="./svg/frameworks/tensorflow.svg">
+  <img align="center" alt="OpenCV" height="30" width="40" src="./svg/frameworks/opencv-wordmark.svg">
+  <img align="center" alt="NumPy" height="30" width="40" src="./svg/frameworks/numpy.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="./svg/frameworks/pandas-wordmark.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="./svg/frameworks/jupyter-wordmark.svg">
+</div>
+
+<!-- Ferramentas & DevOps -->
+<div>
+  <h3>Tools & DevOps</h3>
+  <img align="center" alt="NodeJS" height="30" width="40" src="./svg/frameworks/nodejs-wordmark.svg">
+  <img align="center" alt="Git" height="30" width="40" src="./svg/tools/git.svg"> 
+  <img align="center" alt="Docker" height="30" width="40" src="./svg/tools/docker.svg">
+  <img align="center" alt="Kubernetes" height="30" width="40" src="./svg/tools/kubernetes.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="./svg/tools/vscode.svg">
+  <img align="center" alt="Jira" height="30" width="40" src="./svg/tools/jira-wordmark.svg">
+</div>
+
+<!-- Sistemas Operacionais -->
+<div>
+  <h3>Operating Systems</h3>
+  <img align="center" alt="Linux" height="30" width="40" src="./svg/tools/linux.svg"> 
+  <img align="center" alt="Debian" height="30" width="40" src="./svg/tools/Debian.svg"> 
+  <img align="center" alt="Ubuntu" height="30" width="40" src="./svg/tools/ubuntu.svg"> 
+  <img align="center" alt="kali" height="30" width="40" src="./svg/tools/kalilinux.svg"> 
+  <img align="center" alt="Windows" height="30" width="40" src="./svg/tools/windows11.svg"> 
+</div>
+
+<!-- IA & Data Science
+<div>
+  <h3>IA & Data Science</h3>
+  <img align="center" alt="AI" height="30" width="40" src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white">
+  <img align="center" alt="Cybersecurity" height="30" width="40" src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white">
+</div>
+ -->
+
+<!-- Hardware -->
+<div>
+  <h3>Hardware</h3>
+  <img align="center" alt="Arduino" height="30" width="40" src="./svg/hardware/arduino.svg">
+</div>
+
+<!-- Softwares -->
+<div>
+  <h3>Softwares</h3>
+  <img align="center" alt="Matlab" height="30" width="40" src="./svg/softwares/matlab.svg">
+  <img align="center" alt="Nano" height="30" width="40" src="./svg/softwares/nano.svg">
+</div>
 
 <hr>
 
