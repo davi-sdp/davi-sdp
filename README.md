@@ -44,7 +44,7 @@ Secondary Account Data:
   <img align="center" alt="HTML5" height="30" width="40" src="./svg/langs/html5.svg"> 
   <img align="center" alt="CSS3" height="30" width="40" src="./svg/langs/css3.svg"> 
   <img align="center" alt="JSON" height="30" width="40" src="./svg/langs/json.svg">
-  <span style="color:orange">ASM</span>
+  <img align="center" alt="Assembly" height="30" width="40" src="./svg/langs/assembly.svg">
 </div>
 
 <!-- Frameworks & Bibliotecas -->
