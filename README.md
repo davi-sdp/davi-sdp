@@ -32,76 +32,53 @@ Secondary Account Data:
 </a>
 
 
-### Skills & Tools:
+<h2> Tech Stack</h2>
 
-<!-- Linguagens de Programação -->
-<div>
-  <h3>Languages</h3>
-  <img align="center" alt="Python" height="30" width="40" src="./svg/langs/python.svg"> 
-  <img align="center" alt="C" height="30" width="40" src="./svg/langs/c.svg"> 
-  <img align="center" alt="C++" height="30" width="40" src="./svg/langs/cplusplus.svg"> 
-  <img align="center" alt="JavaScript" height="30" width="40" src="./svg/langs/javascript.svg"> 
-  <img align="center" alt="HTML5" height="30" width="40" src="./svg/langs/html5.svg"> 
-  <img align="center" alt="CSS3" height="30" width="40" src="./svg/langs/css3.svg"> 
-  <img align="center" alt="JSON" height="30" width="40" src="./svg/langs/json.svg">
-  <img align="center" alt="Assembly" height="30" width="40" src="./svg/langs/assembly.svg">
-</div>
+<h3> Languages</h3>
+<p>
+  <img alt="Python" height="35" src="./svg/langs/python.svg">
+  <img alt="C" height="35" src="./svg/langs/c.svg">
+  <img alt="C++" height="35" src="./svg/langs/cplusplus.svg">
+  <img alt="JavaScript" height="35" src="./svg/langs/javascript.svg">
+  <img alt="HTML5" height="35" src="./svg/langs/html5.svg">
+  <img alt="CSS3" height="35" src="./svg/langs/css3.svg">
+  <img alt="Assembly" height="35" src="./svg/langs/assembly.svg">
+</p>
 
-<!-- Frameworks & Bibliotecas -->
-<div>
-  <h3>Frameworks & Libraries</h3>
-  <img align="center" alt="React" height="30" width="40" src="./svg/frameworks/react.svg"> 
-  <img align="center" alt="Flask" height="30" width="40" style="background-color: rgba(128, 128, 128, 0.7); border-radius: 10%;" src="./svg/frameworks/flask-wordmark.svg">
-  <img align="center" alt="Django" height="30" width="40" src="./svg/frameworks/django-plain.svg">
-  <img align="center" alt="PyTorch" height="30" width="40" src="./svg/frameworks/pytorch.svg">
-  <img align="center" alt="TensorFlow" height="30" width="40" src="./svg/frameworks/tensorflow.svg">
-  <img align="center" alt="OpenCV" height="30" width="40" style="background-color: rgba(128, 128, 128, 0.7); border-radius: 10%;" src="./svg/frameworks/opencv-wordmark.svg">
-  <img align="center" alt="NumPy" height="30" width="40" src="./svg/frameworks/numpy.svg">
-  <img align="center" alt="Pandas" height="30" width="40" style="background-color: rgba(255, 255, 255, 0.3); border-radius: 10%;" src="./svg/frameworks/pandas-wordmark.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="./svg/frameworks/jupyter-wordmark.svg">
-</div>
+<h3> Frameworks & Libraries</h3>
+<p>
+  <img alt="React" height="35" src="./svg/frameworks/react.svg">
+  <img alt="Flask" height="35" src="./svg/frameworks/flask-wordmark.svg">
+  <img alt="Django" height="35" src="./svg/frameworks/django-plain.svg">
+  <img alt="PyTorch" height="35" src="./svg/frameworks/pytorch.svg">
+  <img alt="TensorFlow" height="35" src="./svg/frameworks/tensorflow.svg">
+  <img alt="OpenCV" height="35" src="./svg/frameworks/opencv-wordmark.svg">
+  <img alt="NumPy" height="35" src="./svg/frameworks/numpy.svg">
+  <img alt="Pandas" height="35" src="./svg/frameworks/pandas-wordmark.svg">
+</p>
 
-<!-- Ferramentas & DevOps -->
-<div>
-  <h3>Tools & DevOps</h3>
-  <img align="center" alt="NodeJS" height="30" width="40" src="./svg/frameworks/nodejs-wordmark.svg">
-  <img align="center" alt="Git" height="30" width="40" src="./svg/tools/git.svg"> 
-  <img align="center" alt="Docker" height="30" width="40" src="./svg/tools/docker.svg">
-  <img align="center" alt="Kubernetes" height="30" width="40" src="./svg/tools/kubernetes.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="./svg/tools/vscode.svg">
-  <img align="center" alt="Jira" height="30" width="40" src="./svg/tools/jira-wordmark.svg">
-</div>
+<h3> Development & DevOps</h3>
+<p>
+  <img alt="Node.js" height="35" src="./svg/frameworks/nodejs-wordmark.svg">
+  <img alt="Git" height="35" src="./svg/tools/git.svg">
+  <img alt="Docker" height="35" src="./svg/tools/docker.svg">
+  <img alt="Kubernetes" height="35" src="./svg/tools/kubernetes.svg">
+  <img alt="VS Code" height="35" src="./svg/tools/vscode.svg">
+  <img alt="Jupyter" height="35" src="./svg/frameworks/jupyter-wordmark.svg">
+  <img alt="Jira" height="35" src="./svg/tools/jira-wordmark.svg">
+</p>
 
-<!-- Sistemas Operacionais -->
-<div>
-  <h3>Operating Systems</h3>
-  <img align="center" alt="Linux" height="30" width="40" src="./svg/tools/linux.svg"> 
-  <img align="center" alt="Debian" height="30" width="40" src="./svg/tools/debian.svg"> 
-  <img align="center" alt="Ubuntu" height="30" width="40" src="./svg/tools/ubuntu.svg"> 
-  <img align="center" alt="kali" height="30" width="40" src="./svg/tools/kalilinux.svg"> 
-  <img align="center" alt="Windows" height="30" width="40" src="./svg/tools/windows11.svg"> 
-</div>
+<h3> Operating Systems</h3>
+<p>
+  <img alt="Linux" height="35" src="./svg/tools/linux.svg">
+  <img alt="Windows" height="35" src="./svg/tools/windows11.svg">
+</p>
 
-<!-- IA & Data Science
-<div>
-  <h3>IA & Data Science</h3>
-  <img align="center" alt="AI" height="30" width="40" src="https://img.shields.io/badge/Artificial_Intelligence-FF4500?style=for-the-badge&logo=openai&logoColor=white">
-  <img align="center" alt="Cybersecurity" height="30" width="40" src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=cybersecurity&logoColor=white">
-</div>
- -->
-
-<!-- Hardware -->
-<div>
-  <h3>Hardware</h3>
-  <img align="center" alt="Arduino" height="30" width="40" src="./svg/hardware/arduino.svg">
-</div>
-
-<!-- Softwares -->
-<div>
-  <h3>Softwares</h3>
-  <img align="center" alt="Matlab" height="30" width="40" src="./svg/softwares/matlab.svg">
-  <img align="center" alt="Nano" height="30" width="40" src="./svg/softwares/nano.svg">
-</div>
+<h3> Hardware & Engineering</h3>
+<p>
+  <img alt="Arduino" height="35" src="./svg/hardware/arduino.svg">
+  <img alt="MATLAB" height="35" src="./svg/softwares/matlab.svg">
+</p>
 
 <hr>
 
