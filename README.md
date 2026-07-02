@@ -19,16 +19,16 @@
 Primary Account Data:
 ---
 <a href="https://github.com/d4v1-sudo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d4v1-sudo&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;title_color=ffffff&amp;border_color=000000&amp;bg_color=000000" style="max-width: 100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4v1-sudo&layout=compact&langs_count=7&theme=dark&title_color=ffffff&border_color=000000&bg_color=000000" style="max-width: 100%;">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=d4v1-sudo&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;title_color=ffffff&amp;border_color=000000&amp;bg_color=000000" style="max-width: 100%;">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=d4v1-sudo&layout=compact&langs_count=7&theme=dark&title_color=ffffff&border_color=000000&bg_color=000000" style="max-width: 100%;">
 </a>
 
 ---
 Secondary Account Data:
 ---
 <a href="https://github.com/davi-sdp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-sdp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ffffff&border_color=000000&bg_color=000000" style="max-width: 100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-sdp&layout=compact&langs_count=7&theme=dark&title_color=ffffff&border_color=000000&bg_color=000000" style="max-width: 100%;">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=davi-sdp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ffffff&border_color=000000&bg_color=000000" style="max-width: 100%;">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davi-sdp&layout=compact&langs_count=7&theme=dark&title_color=ffffff&border_color=000000&bg_color=000000" style="max-width: 100%;">
 </a>
 
 
